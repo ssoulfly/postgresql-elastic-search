@@ -22,3 +22,8 @@
 - `yarn start:migrations` Yazarak gerekli tabloları ve eklentileri postgresql oluşturun. (Konsolu Terminate Ediniz)
 - `yarn start:seed` Yazarak mock data oluşturabilirsiniz. (Konsolu Terminate Ediniz)
 - `yarn start` son olarak bu kodu çalıştırınız ve projeniz ayakta 🎉 🎉
+
+
+
+# POSTMAN COLLECTION
+- https://www.postman.com/softcand-team/workspace/soulfly/collection/29066252-5104f5de-a252-44ae-8831-1b98cc11a279
