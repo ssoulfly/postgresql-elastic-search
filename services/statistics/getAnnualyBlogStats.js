@@ -30,6 +30,6 @@ module.exports.getAnnualyBlogStats = async (period) => {
       return acc;
     },
     {}
-  ); 
+  );  
   return annualy;
 };
